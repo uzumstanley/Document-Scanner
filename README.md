@@ -1,7 +1,3 @@
-Below is a **README.md** template tailored to highlight your project’s strengths, attract technical reviewers, and impress recruiters. Feel free to customize any sections to fit your needs.
-
----
-
 # Document Scanner
 
 An automated **Document Scanner** that uses OpenCV and Tesseract OCR to transform photos of documents into clean, perspective-corrected scans with extracted text.
